@@ -49,4 +49,4 @@ python lrc_fetcher.py
 
 
 ## Contribution
-Feel free to review code, raise issues, make changes and enhance this project.
+Feel free to review code, raise issues, make changes or enhance this project.
