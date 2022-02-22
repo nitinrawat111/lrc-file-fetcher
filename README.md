@@ -41,7 +41,7 @@ python lrc_fetcher.py
 </ul>
 
   
-## Tips for getting more aacurate lyrics
+## Tips for getting more accurate lyrics
 <ul>
 <li>Include both song title and artist name in Mp3 file name. (In above test, MP3 Tag was be used to rename MP3 files according to title and artist tags)  </li>
 <li>Use non-automated version to manually choose right link from which lyrics will scrapped.</li>
